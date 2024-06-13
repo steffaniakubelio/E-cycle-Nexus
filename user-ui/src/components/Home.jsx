@@ -15,7 +15,7 @@ function Home() {
         <div className="blur">
         <div className="welcome-content">
           <div className="welcome-text">
-            <h1>Recycle Your Tech, Renew Our World!</h1>
+            <h1>Recycle Your Tech, Renew Our World</h1>
             <p>Help us protect the environment by recycling your electronic waste!</p>
           </div>
           <div className="wel-img">
